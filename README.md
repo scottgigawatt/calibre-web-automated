@@ -12,6 +12,18 @@
   <img src="https://img.shields.io/badge/Tested%20in%20Society-Synology%20%7C%20macOS-blue" alt="Shelf-Tested" />
 </p>
 
+<p align="center">─── ⛧ ───</p>
+
+<p align="center">
+    <em>📚 Few fates are more dreadful than a disordered library — save not seeking help in <strong>🔥HADES🔥</strong>.</em>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/BpEGzWwGYf">
+    <img src="https://img.shields.io/discord/1403601106315116626?label=%F0%9F%94%A5HADES%F0%9F%94%A5&logo=discord&logoColor=white&color=5865F2" alt="🔥HADES🔥 Discord" />
+  </a>
+</p>
+
 <hr />
 
 # Calibre Web Automated 📚👒
