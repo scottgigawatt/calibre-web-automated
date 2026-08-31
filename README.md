@@ -28,6 +28,11 @@
 
 # Calibre Web Automated 📚👒
 
+> [!IMPORTANT]
+> **This standalone repository is deprecated.** [Plundarr](https://github.com/scottgigawatt/plundarr#readme) is the maintained successor, where Maraudarr generates the equivalent deployment as the `calibre-web-automated` preset. Use Plundarr for new deployments, migrations, dependency updates, and future releases.
+>
+> Existing deployments may remain on the shelf, but migrate when practical. After this notice lands, a final archival release will be cut from `main`; no further feature or dependency updates are planned here. This is the final standalone edition; future volumes live in Plundarr. 📚
+
 It is a truth universally acknowledged, that a bibliophile in possession of a vast collection of ebooks, must be in want of an elegant method of organization. Thus, dear reader, we present to you **Calibre Web Automated**—a Docker Compose deployment most genteel and efficient, suitable for even the most refined Synology parlours.
 
 ## A Brief Introduction ✨
